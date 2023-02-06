@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CampusStudent</string>
+    <string name="student_home">Student Home</string>
+    <string name="username">XYZ ABC</string>
+    <string name="my_profile">My Profile</string>
+    <string name="attendance">Attendance</string>
+    <string name="logout">Logout</string>
+    <string name="name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="department">Department</string>
+    <string name="year">Year</string>
+    <string name="mobile_hint">Mobile</string>
+    <string name="enter_address">Address</string>
+    <string name="profile">Profile</string>
+    <string name="my_attendance">My Attendance</string>
+    <string name="my_books">My Books</string>
+</resources>
